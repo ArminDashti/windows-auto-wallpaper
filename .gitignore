@@ -68,8 +68,10 @@ nunit-*.xml
 
 # === auto-managed large files (github-commit-push-all) ===
 
-# AUTO-IGNORE-LARGE-FILES (>5MB) â€” managed by github-commit-push-all
-# github-commit-push-all: large files (>5MB) — auto-managed
+# AUTO-IGNORE-LARGE-FILES (>5MB) Ã¢â‚¬â€ managed by github-commit-push-all
+# github-commit-push-all: large files (>5MB) â€” auto-managed
 
 # auto-managed: files > 5MB
 # === auto: large files (>5MB) ===
+
+# === commit-push-to-github large files (auto) ===
