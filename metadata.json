@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Armin Dashti",
   "category": "",
-  "last-modified": "2026-07-28T19:48:54+03:30",
+  "description": "Gin API + Vue webui + Windows autowall CLI/service for scheduled lock and home wallpapers",
+  "last-modified": "2026-09-14T19:30:00+00:00",
   "licence": "MIT"
 }
