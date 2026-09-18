@@ -37,3 +37,5 @@ Thumbs.db
 # END AUTO-MANAGED LARGE FILES
 
 # --- commit-push-to-github large files ---
+
+# commit-push-to-github: large files (>5MB) auto-ignored
